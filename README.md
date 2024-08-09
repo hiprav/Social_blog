@@ -27,14 +27,16 @@ Back-End:
 
 - Dynamic Themes: Learn to implement captivating dark and light themes that enhance user experience and engagement.
 ## Project View
+-  User Authentication:
 ![Screenshot (154)](https://github.com/user-attachments/assets/92b952c9-7622-43b0-97a8-7c26d9cfabd3)
-
+- Blog Creation:
 ![Screenshot (156)](https://github.com/user-attachments/assets/f6f27836-2272-4f9f-8ee7-1813625b7477)
-
+- Edit User Profile
 ![Screenshot (160)](https://github.com/user-attachments/assets/bbd47790-520e-409c-b9f0-3f21fcc9b399)
-
+- user search
 ![Screenshot (159)](https://github.com/user-attachments/assets/feb99796-c643-4e44-8f89-5bd7cba50444)
-
+- Razorpay Integration for secure and seamless account verification.
+![Screenshot (161)](https://github.com/user-attachments/assets/27c1ddfd-6693-4e25-836e-7af9467ea81d)
 ## Show your support!
 
 Give a 🌟 if you find this repo helpful.
