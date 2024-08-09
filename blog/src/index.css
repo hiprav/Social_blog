@@ -1,0 +1,21 @@
+.css-1arn14o-MuiButtonBase-root-MuiButton-root {
+    background-color: #177ee3;
+    color: black;
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, ::before, ::after {
+ 
+ border-radius: 30px; 
+ border-color:#2C3333;
+ color: white;
+}
+.j{
+  background-color: #2C3333;
+}
+.font-bold {
+  color: black;
+}

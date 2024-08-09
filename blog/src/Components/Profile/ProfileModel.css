@@ -1,0 +1,24 @@
+/* For webkit-based browsers (Chrome, Safari) */
+.customeScrollbar::-webkit-scrollbar {
+    width: 10px;
+    display: none;
+  }
+  
+  .customeScrollbar::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Track color */
+  }
+  
+  .customeScrollbar::-webkit-scrollbar-thumb {
+    background: #888; /* Thumb color */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  .customeScrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Thumb color on hover */
+  }
+  .css-1arn14o-MuiButtonBase-root-MuiButton-root {
+    background-color: #177ee3;
+    color: black;
+  }
+
+  
