@@ -3,8 +3,16 @@
 # A Full-Stack Blog application👨‍💻
 Design and developed blog📸 application to transform the way bloggers share their thoughts, ideas💡, and experiences with the other.
 ## TechStack
-- Frontend : React, Redux, tailwind, HTML/CSS
-- Backend : Spring Boot
+Front-End:
+- React and Redux for building dynamic user interfaces.
+- Formik for streamlined form handling and validation.
+- Google Authentication for secure and user-friendly login.
+- Material-UI (MUI) and Tailwind CSS for stunning and responsive designs.
+Back-End:
+- Spring Boot for building a powerful and scalable back-end.
+- Spring Security 3 and JWT for robust user authentication and authorization.
+- MySQL Database for efficient data storage and retrieval.
+- Razorpay Integration for secure and seamless account verification.
 - Database : MySQL.
 
 ## Features😎 
