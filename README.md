@@ -12,7 +12,7 @@ Back-End:
 - Spring Boot for building a powerful and scalable back-end.
 - Spring Security 3 and JWT for robust user authentication and authorization.
 - MySQL Database for efficient data storage and retrieval.
-- Razorpay Integration for secure and seamless account verification.
+- Razorpay Integration for secure and seamless account verification.(which is kept close due to deployment reasons)
 - Database : MySQL.
 
 ## Features😎 
