@@ -8,6 +8,7 @@ Front-End:
 - Formik for streamlined form handling and validation.
 - Google Authentication for secure and user-friendly login.
 - Material-UI (MUI) and Tailwind CSS for stunning and responsive designs.
+  
 Back-End:
 - Spring Boot for building a powerful and scalable back-end.
 - Spring Security 3 and JWT for robust user authentication and authorization.
